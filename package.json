@@ -1,5 +1,6 @@
 {
   "name": "es6-basis",
+  "type": "commonjs",
   "version": "1.0.0",
   "description": "learning project for es6 syntax",
   "main": "index.js",
